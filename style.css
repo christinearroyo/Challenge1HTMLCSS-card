@@ -1,0 +1,78 @@
+body {
+    background-color: rgba(244 208 78);
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+.box {
+        background-color: white;
+        height: 520px;
+        width: 384px;
+        margin: auto;
+        margin-top: 80px;
+        padding: 150 80 100 200;
+        border-radius: 20px;
+        border-style: groove;
+        border-color: black;
+        box-shadow: 10px 10px;
+}
+.img {
+    height: 200px;
+    width: 336px;
+    border-radius: 20px;
+    margin: 30px 0 0 0;
+}
+.learning { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-align: left;
+    margin: 10px 265px 0px 35px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    background-color: rgba(244 208 78);
+}
+.time {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 40px;
+    font-size: 12px;
+    line-height: 1.8;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    line-height: 5px;
+    font-size: larger;
+}
+
+.h62 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: small;
+    text-shadow: 2px 2px 5px gray;
+    color: gray;
+    line-height: 1.8;
+}
+ 
+.profile{
+    height: 32px;
+    width: 32px;
+    border-radius: 100px;
+    float: left;
+    margin-left: 40px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-align: left;
+    font-size: small;
+    float: left;
+    margin-left: 10px;
+}
